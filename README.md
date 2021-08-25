@@ -54,30 +54,21 @@ whenever there is a request which fulfills the following criteria:
 The middleware is available through NPM and can easily be added.
 
 ```
-npm install --save connect-history-api-fallback
+npm install @tnnevol/koa2-history-api-fallback-async@2.0.0 -S
 ```
 
 Import the library
 
 ```javascript
-var history = require("connect-history-api-fallback");
+var history = require("@tnnevol/koa2-history-api-fallback-async");
 ```
 
 Now you only need to add the middleware to your application like so
 
 ```javascript
-var connect = require("connect");
+var Koa = require("koa");
 
-var app = connect().use(history()).listen(3000);
-```
-
-Of course you can also use this piece of middleware with express:
-
-```javascript
-var express = require("express");
-
-var app = express();
-app.use(history());
+var app = new Koa().use(history()).listen(3000);
 ```
 
 ## Options
