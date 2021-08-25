@@ -1,10 +1,11 @@
 {
-  "name": "connect-history-api-fallback",
+  "name": "koa2-history-api-fallback-async",
   "version": "1.6.0",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
-    "connect",
-    "html5",
+    "koa2",
+    "vue",
+    "vue-router",
     "history api",
     "fallback",
     "spa"
@@ -21,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/bripkens/connect-history-api-fallback.git"
+    "url": "git@github.com:tnnevol/koa2-history-api-fallback-async.git"
   },
   "author": {
-    "name": "Ben Ripkens",
-    "email": "bripkens@gmail.com"
+    "name": "tnnevol",
+    "email": "greecenew@foxmail.com"
   },
   "contributors": [
     "Craig Myles <cr@igmyles.com> (http://www.craigmyles.com)"
