@@ -25,15 +25,12 @@
     "url": "git@github.com:tnnevol/koa2-history-api-fallback-async.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/tnnevol"
   },
   "author": {
     "name": "tnnevol",
     "email": "greecenew@foxmail.com"
   },
-  "contributors": [
-    "Craig Myles <cr@igmyles.com> (http://www.craigmyles.com)"
-  ],
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.16.0",
