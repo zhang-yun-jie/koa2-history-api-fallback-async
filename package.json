@@ -1,6 +1,6 @@
 {
   "name": "@tnnevol/koa2-history-api-fallback-async",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
     "koa2",
