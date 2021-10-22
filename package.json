@@ -24,9 +24,6 @@
     "type": "git",
     "url": "git@github.com:tnnevol/koa2-history-api-fallback-async.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/tnnevol"
-  },
   "author": {
     "name": "tnnevol",
     "email": "greecenew@foxmail.com"
