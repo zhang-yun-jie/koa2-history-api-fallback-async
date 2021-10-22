@@ -10,7 +10,7 @@
 
 本项目是由
 [connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback)
-修改完成，在 npm 库中找了前面几个关于 koa2 的 history 中间价，都未返回中间件的指定格式，故做了这个包，其中修改了 url 废弃的 api，改用 koa 请求体中的 url 解析对象。感谢原作者。
+修改完成，在 npm 库中找了前面几个关于 koa2 的 history 中间件，都未返回中间件的指定格式，故做了这个包，其中修改了 url 废弃的 api，改用 koa 请求体中的 url 解析对象。感谢原作者。
 
 <h2>Table of Contents</h2>
 
