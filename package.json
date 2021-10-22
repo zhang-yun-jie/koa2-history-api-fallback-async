@@ -26,7 +26,11 @@
   },
   "author": {
     "name": "tnnevol",
-    "email": "greecenew@foxmail.com"
+    "email": "greecenew@foxmail.com",
+    "organization": false
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "license": "MIT",
   "devDependencies": {
