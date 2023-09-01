@@ -54,13 +54,13 @@ whenever there is a request which fulfills the following criteria:
 The middleware is available through NPM and can easily be added.
 
 ```
-npm install @tnnevol/koa2-history-api-fallback-async@2.0.0 -S
+npm install @zhangyunjie/koa2-history-api-fallback-async@2.0.0 -S
 ```
 
 Import the library
 
 ```javascript
-var history = require("@tnnevol/koa2-history-api-fallback-async");
+var history = require("@zhangyunjie/koa2-history-api-fallback-async");
 ```
 
 Now you only need to add the middleware to your application like so

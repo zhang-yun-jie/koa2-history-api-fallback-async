@@ -1,5 +1,5 @@
 {
-  "name": "@tnnevol/koa2-history-api-fallback-async",
+  "name": "@zhangyunjie/koa2-history-api-fallback-async",
   "version": "2.0.3",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tnnevol/koa2-history-api-fallback-async.git"
+    "url": "git@github.com:zhang-yun-jie/koa2-history-api-fallback-async.git"
   },
   "author": {
-    "name": "tnnevol",
-    "email": "greecenew@foxmail.com",
+    "name": "zhangyunjie",
+    "email": "1520420636@qq.com",
     "organization": false
   },
   "publishConfig": {
