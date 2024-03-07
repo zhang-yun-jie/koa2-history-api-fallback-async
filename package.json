@@ -1,5 +1,5 @@
 {
-  "name": "@zhangyunjie/koa2-history-api-fallback-async",
+  "name": "@yun-jie/koa2-history-api-fallback-async",
   "version": "2.0.3",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
